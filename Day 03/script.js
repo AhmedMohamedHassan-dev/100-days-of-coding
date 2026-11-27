@@ -1,6 +1,7 @@
 // 2. Small Shop Inventory Management System
 
-const products=["Rice", "Suger", "Cooking Oil", "Flour", "Milk"]
+const products=["Rice", "Suger", "Cooking Oil",
+     "Flour", "Milk"]
 // console.log(products)
 // console.log(products.length)
 const newProduct= products.push("Cooking Salt")
